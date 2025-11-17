@@ -1,34 +1,37 @@
-<h1>We Care</h1>
+# 🐾 Projeto WeCare
 
-<br>
+Landing page responsiva para um serviço de cuidados com pets, desenvolvida como parte da minha prática pessoal durante os estudos em desenvolvimento front-end.
 
-<h2>Projeto do <a href="https://rodolfomori.com.br/devclub/" target="_blank">Curso DevClub Full Stack</a></h2>
+## 💡 Sobre o projeto
 
-<p>Módulo: Iniciando no Front End - Projeto We Care - CSS Parte 01</p>
+O objetivo foi criar uma interface moderna e adaptável a diferentes dispositivos, utilizando HTML e CSS. A estrutura visual foi inspirada em um layout proposto no Figma, e ajustada com foco em boas práticas e responsividade.
 
-<br>
+## 🧪 Tecnologias utilizadas
 
-<h3>Demonstração visual do projeto</h3>
+- HTML
+- CSS
+- Media Queries
 
-<br>
+## 📱 Responsividade
+
+A página se adapta a três tamanhos de tela:
+- Desktop
+- Tablet
+- Smartphone
+
+## 📸 Preview
 
 <img src="https://github.com/dbarreiro19/we-care/blob/master/img/we-care-img-readme.png" alt="imagem-parte-visual-do-projeto-we-care">
+> 💻 Visualização do layout responsivo em diferentes dispositivos
 
-<br>
+## 🚀 Aprendizados
 
-<h3>Detalhes do projeto</h3>
+Durante o desenvolvimento, aprofundei meu conhecimento em:
+- Estruturação semântica com HTML
+- Estilização com CSS moderno
+- Implementação de responsividade com media queries
+- Organização de código e atenção aos detalhes visuais
 
-<ul>
-  <li>Design construído seguindo especificações do projeto na ferramenta Figma</li>
-  <li>Responsividade para três tamanhos de tela (desktop, tablet e smartphone) utilizando CSS @media queries</li>
-</ul>
+## 📚 Referência
 
-<br>
-
-<h3>Tecnologias e ferramentas utilizadas</h3>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">  
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva-logo">
-<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="gimp-logo">
+Este projeto foi desenvolvido como parte da minha prática pessoal durante os estudos no [DevClub](https://devclub.com.br), com foco em estruturação e responsividade.
