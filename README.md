@@ -35,3 +35,8 @@ Durante o desenvolvimento, aprofundei meu conhecimento em:
 ## 📚 Referência
 
 Este projeto foi desenvolvido como parte da minha prática pessoal durante os estudos no [DevClub](https://devclub.com.br), com foco em estruturação e responsividade.
+
+## 🌐 Projeto online
+
+Você pode visualizar o projeto funcionando aqui:  
+🔗 [https://diego-barreiro.github.io/we-care/](https://diego-barreiro.github.io/we-care/)
